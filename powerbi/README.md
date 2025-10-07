@@ -52,7 +52,7 @@ Here are selected screenshots from the Power BI dashboards included in this proj
 ![Profit Impact](Profitability_&_Return.png)
 
 ### 5. Overall Insights Summary  
-![Insight Summary] (insight_1.png)
+![Insight_1] (insight_1.png)
 
 
 ## 📂 Repository Contents  
