@@ -52,10 +52,10 @@ Here are selected screenshots from the Power BI dashboards included in this proj
 ![Profit Impact](Profitability_&_Return.png)
 
 ### 5. Overall Insights Summary  
-![Insight Summary](insight 1.png)
-(insight 2.png)
+![Insight Summary] (insight_1.png)
+(insight_2.png)
 
----
+---//
 
 ## 📂 Repository Contents  
 - `data/`: Sample dataset (Orders sheet has 51,291 rows; only sample included due to size)  
