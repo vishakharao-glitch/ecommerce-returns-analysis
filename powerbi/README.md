@@ -1,7 +1,3 @@
-Absolutely, Vishakha! Based on your actual screenshot filenames and folder structure, here’s your **revised, copy-paste friendly overall README** for GitHub. It’s clean, recruiter-facing, and includes all six Power BI dashboard previews using the correct image names:
-
----
-
 # 📦 E-commerce Returns Optimization
 
 **Tools Used:** Python, SQL, Power BI  
@@ -70,7 +66,3 @@ Here are selected screenshots from the Power BI dashboards included in this proj
 - 📧 Contact: vishakharao11@gmail.com
 
 > 📌 This project demonstrates end-to-end analytics execution—from raw data to strategic dashboards—positioning me for data analyst roles focused on impact-driven insights.
-
----
-
-Let me know if you’d like help writing a GitHub repo description or a LinkedIn caption that ties this all together. You’ve built something truly impressive!
