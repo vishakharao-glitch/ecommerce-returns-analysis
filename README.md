@@ -27,7 +27,6 @@ Suggested changes could reduce returns by 15%, saving ₹12L annually.
 - `python/`: Jupyter notebook with full analysis
 - `sql/`: SQL scripts for data cleaning and aggregation
 - `powerbi/`: Dashboard screenshots and visuals
-- `docs/`: Business summary and presentation materials
 
 ## 🔗 Live Links
 - [Power BI Dashboard](#)
