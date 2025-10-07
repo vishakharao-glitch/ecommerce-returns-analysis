@@ -54,6 +54,9 @@ Here are selected screenshots from the Power BI dashboards included in this proj
 ### 5. Overall Insights Summary  
 ![Insight Summary 1](insight_1.png)
 
+### 6. Overall Insights Summary  
+![Insight Summary 2](insight_2.png)
+
 ## 📂 Repository Contents  
 - `data/`: Sample dataset (Orders sheet has 51,291 rows; only sample included due to size)  
 - `python/`: Jupyter notebook with full cleaning and EDA  
