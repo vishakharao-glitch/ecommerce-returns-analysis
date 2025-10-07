@@ -40,7 +40,7 @@ Suggested interventions could reduce returns by 15%, saving ₹12L annually whil
 Here are selected screenshots from the Power BI dashboards included in this project:
 
 ### 1. Executive Summary  
-![Executive Summary](powerbi/dashboard_screenshots/Executive_summary.png)
+![Executive Summary](Executive_summary.png)
 
 ### 2. Regional & Shipping Insights  
 ![Regional & Shipping](powerbi/dashboard_screenshots/Regional_&_shipping.png)
