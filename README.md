@@ -31,28 +31,6 @@ Suggested interventions could reduce returns by 15%, saving ₹12L annually whil
 
 ---
 
-## 📊 Dashboard Previews
-
-Here are selected screenshots from the Power BI dashboards included in this project:
-
-### 1. Executive Summary  
-![Executive Summary](Executive_summary.png)
-
-### 2. Regional & Shipping Insights  
-![Regional & Shipping](Regional_&_shipping.png)
-
-### 3. Product & Customer Insights  
-![Product & Customer](Product_&_Customer.png)
-
-### 4. Profit Impact Dashboard  
-![Profit Impact](Profitability_&_Return.png)
-
-### 5. Overall Insights Summary  
-![Insight Summary 1](insight_1.png)
-
-### 6. Overall Insights Summary  
-![Insight Summary 2](insight_2.png)
-
 ## 📂 Repository Contents  
 - `data/`: Sample dataset (Orders sheet has 51,291 rows; only sample included due to size)  
 - `python/`: Jupyter notebook with full cleaning and EDA  
