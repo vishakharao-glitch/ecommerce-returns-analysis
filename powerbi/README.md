@@ -65,9 +65,9 @@ Here are selected screenshots from the Power BI dashboards included in this proj
 
 ---
 
-## 🔗 Live Links  
-- [Power BI Dashboard](#)  
-- [LinkedIn Post](#)
+## 🔗 Connect & Contact  
+- 🔗 Connect on LinkedIn: [linkedin.com/in/vishakharao11](https://linkedin.com/in/vishakharao11)  
+- 📧 Contact: vishakharao11@gmail.com
 
 > 📌 This project demonstrates end-to-end analytics execution—from raw data to strategic dashboards—positioning me for data analyst roles focused on impact-driven insights.
 
