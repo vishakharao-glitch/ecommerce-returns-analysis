@@ -33,27 +33,25 @@ Suggested interventions could reduce returns by 15%, saving ₹12L annually whil
 
 ## 📊 Dashboard Previews
 
-Here are screenshots from the Power BI dashboards included in this project:
+Here are selected screenshots from the Power BI dashboards included in this project:
 
 ### 1. Executive Summary  
-![Executive Summary](executive_summary.png)
+![Executive Summary](Executive_summary.png)
 
 ### 2. Regional & Shipping Insights  
-![Regional & Shipping](powerbi/dashboard_screenshots/regional_shipping.png)
+![Regional & Shipping](Regional_&_shipping.png)
 
 ### 3. Product & Customer Insights  
-![Product & Customer](powerbi/dashboard_screenshots/product_customer.png)
+![Product & Customer](Product_&_Customer.png)
 
 ### 4. Profit Impact Dashboard  
-![Profit Impact](powerbi/dashboard_screenshots/profit_impact.png)
+![Profit Impact](Profitability_&_Return.png)
 
 ### 5. Overall Insights Summary  
-![Overall Summary](powerbi/dashboard_screenshots/overall_summary.png)
+![Insight Summary 1](insight_1.png)
 
-### 6. Strategic Takeaways  
-![Strategic Takeaways](powerbi/dashboard_screenshots/strategic_takeaways.png)
-
----
+### 6. Overall Insights Summary  
+![Insight Summary 2](insight_2.png)
 
 ## 📂 Repository Contents  
 - `data/`: Sample dataset (Orders sheet has 51,291 rows; only sample included due to size)  
@@ -63,8 +61,8 @@ Here are screenshots from the Power BI dashboards included in this project:
 
 ---
 
-## 🔗 Live Links  
-- [Power BI Dashboard](#)  
-- [LinkedIn Post](#)
+## 🔗 Connect & Contact  
+- 🔗 Connect on LinkedIn: [linkedin.com/in/vishakharao11](https://linkedin.com/in/vishakharao11)  
+- 📧 Contact: vishakharao11@gmail.com
 
 > 📌 This project demonstrates end-to-end analytics execution—from raw data to strategic dashboards—positioning me for data analyst roles focused on impact-driven insights.
