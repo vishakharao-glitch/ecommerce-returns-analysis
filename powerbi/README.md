@@ -43,19 +43,17 @@ Here are selected screenshots from the Power BI dashboards included in this proj
 ![Executive Summary](Executive_summary.png)
 
 ### 2. Regional & Shipping Insights  
-![Regional & Shipping](powerbi/dashboard_screenshots/Regional_&_shipping.png)
+![Regional & Shipping](Regional_&_shipping.png)
 
 ### 3. Product & Customer Insights  
-![Product & Customer](powerbi/dashboard_screenshots/Product_&_Customer.png)
+![Product & Customer](Product_&_Customer.png)
 
 ### 4. Profit Impact Dashboard  
-![Profit Impact](powerbi/dashboard_screenshots/Profitability_&_Return.png)
+![Profit Impact](Profitability_&_Return.png)
 
 ### 5. Overall Insights Summary  
-![Insight Summary 1](powerbi/dashboard_screenshots/insight 1.png)
-
-### 6. Strategic Takeaways  
-![Insight Summary 2](powerbi/dashboard_screenshots/insight 2.png)
+![Insight Summary](insight 1.png)
+(insight 2.png)
 
 ---
 
