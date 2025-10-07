@@ -1,33 +1,11 @@
-# 📦 E-commerce Returns Optimization
+# 📊 Power BI | E-commerce Returns Dashboard Suite
 
-**Tools Used:** Python, SQL, Power BI  
-**Skills Demonstrated:** Data cleaning, joins, EDA, DAX, dashboarding, business insight framing
-
----
-
-## 🧩 Problem Statement  
-High return rates were affecting profitability and customer satisfaction. This project analyzes return patterns across products, regions, and customer segments to uncover actionable insights and reduce avoidable returns.
+This folder contains six interactive dashboards built in Power BI to analyze and optimize product returns in an e-commerce business. Each dashboard is designed to surface actionable insights across product categories, customer segments, regions, and shipping modes.
 
 ---
 
-## 🔍 Approach  
-- **Python**: Cleaned raw data, engineered features like `Shipping Duration` and `Profit Margin`, and performed exploratory analysis  
-- **SQL**: Aggregated metrics, calculated return rates, and extracted business logic for dashboarding  
-- **Power BI**: Built six interactive dashboards with KPIs, filters, and trend visuals to support strategic decisions
-
----
-
-## 💡 Key Insights  
-- 60% of returns came from just 3 product categories  
-- First-time buyers had the highest return rates  
-- Poor product descriptions and fragile SKUs were major return drivers  
-- Premium shipping reduced return volatility for high-value orders  
-- Return spikes occurred during festive months (Aug–Dec)
-
----
-
-## 📈 Business Impact  
-Suggested interventions could reduce returns by 15%, saving ₹12L annually while improving customer retention and operational efficiency.
+## 🧠 Purpose  
+To visualize return behavior and its impact on profitability, logistics, and customer satisfaction—turning raw metrics into strategic decisions.
 
 ---
 
@@ -53,16 +31,29 @@ Here are selected screenshots from the Power BI dashboards included in this proj
 ### 6. Overall Insights Summary  
 ![Insight Summary 2](insight_2.png)
 
-## 📂 Repository Contents  
-- `data/`: Sample dataset (Orders sheet has 51,291 rows; only sample included due to size)  
-- `python/`: Jupyter notebook with full cleaning and EDA  
-- `sql/`: SQL scripts for metric extraction and business logic  
-- `powerbi/`: Dashboard screenshots and visuals
 
 ---
 
-## 🔗 Connect & Contact  
-- 🔗 Connect on LinkedIn: [linkedin.com/in/vishakharao11](https://linkedin.com/in/vishakharao11)  
-- 📧 Contact: vishakharao11@gmail.com
+## 🔍 Dashboard Highlights  
+- 📌 ₹13M Sales | ₹1M Profit | 23% Return Rate  
+- 📌 60% of returns from 3 categories  
+- 📌 First-time buyers most likely to return  
+- 📌 Premium shipping reduces return volatility  
+- 📌 Return spikes during festive months (Aug–Dec)  
+- 📌 Strategic actions: loyalty programs, quality audits, shipping incentives
 
-> 📌 This project demonstrates end-to-end analytics execution—from raw data to strategic dashboards—positioning me for data analyst roles focused on impact-driven insights.
+---
+
+## 📈 Business Value  
+These dashboards help stakeholders:
+- Identify high-risk products and regions  
+- Optimize shipping strategies  
+- Improve product descriptions and customer support  
+- Reduce return-related losses and improve retention
+
+---
+
+## 📂 Folder Structure  
+- `dashboard_screenshots/`: Contains all six dashboard visuals  
+- `.pbix` file (optional): Available upon request or hosted externally  
+- `README.md`: Documentation for dashboard logic and business framing
